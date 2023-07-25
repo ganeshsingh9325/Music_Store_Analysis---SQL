@@ -1,6 +1,6 @@
-# MUSIC STORE DATA ANALYSIS 
+* MUSIC STORE DATA ANALYSIS 
 
-# SET-1:
+* SET-1:
 
 1. who is the most employee based on job title?
 
